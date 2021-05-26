@@ -1,5 +1,4 @@
-<h2>Welcome to my GitHub profile <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"></h2>
-
+<img src= "https://abinereleregeldikya.is-inside.me/XvRjuDwq.png">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Mehmetali345Dev&count_private=true&show_icons=true&theme=dark&hide_border=true&include_all_commits=true">
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehmetali345Dev&theme=dark&hide_border=true&layout=compact">
