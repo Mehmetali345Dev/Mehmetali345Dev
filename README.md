@@ -1,7 +1,7 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Mehmetali345Dev&count_private=true&show_icons=true&theme=dark&hide_border=true&include_all_commits=true">
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehmetali345Dev&theme=dark&hide_border=true&layout=compact">
-<img width="50%" align="right" src="https://lanyard-profile-readme.vercel.app/api/839462340121985035">
+<img align="up" src="https://lanyard-profile-readme.vercel.app/api/839462340121985035">
 
 Hello, I am Mehmet Ali (aka Mehmetali_345) I am a young developer. I write desktop programs and web applications using javascript and C#. 
 
