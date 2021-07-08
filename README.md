@@ -4,6 +4,7 @@ I am Mehmet Ali (aka Mehmetali_345) I am a young developer from Turkey. I write 
 I love to tell coding is beatiful to people. I work OSS projects in my freetime.</p>
 
 <div align="center">
+<img src="https://komarev.com/ghpvc/?username=Mehmetali345Dev&style=flat-square"
 <img src="https://lanyard-profile-readme.vercel.app/api/839462340121985035">
 </div>
 
