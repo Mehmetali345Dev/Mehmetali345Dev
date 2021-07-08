@@ -6,20 +6,12 @@ I love to tell coding is beatiful to people. I work OSS projects in my freetime.
 <div align="center">
 <img src="https://lanyard-profile-readme.vercel.app/api/839462340121985035">
 </div>
+
+<div>
+<h1>
+  Languages, Frameworks and Tools
+  </h1></div>
 <div align="center">
-<details align="center">
-<summary style="font-weight: bold; font-size: 24px">My Github Stats</summary>
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Mehmetali345Dev&theme=dark&hide_border=true">
-<img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehmetali345Dev&theme=dark&hide_border=true&layout=compact">
-
-</details>
-</div>
-
-<div align="center">
-
-<h1 align="center">
-Languages, Frameworks and Tools
-</h1>
 
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -42,4 +34,10 @@ Languages, Frameworks and Tools
   <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</div>
+
+<div align="center">
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Mehmetali345Dev&theme=dark&hide_border=true">
+<img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehmetali345Dev&theme=dark&hide_border=true&layout=compact">
+
 </div>
