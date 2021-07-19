@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <p align="center">
-I am Mehmet Ali (aka Mehmetali_345) I am a young developer from Turkey. I write desktop programs and web applications using javascript and C#. 
+I am Mehmet Ali (aka Mehmetali_345) I am a young developer(I'm 4 years old) from Turkey. I write desktop programs and web applications using javascript and C#. 
 I love to tell coding is beatiful to people. I work OSS projects in my freetime.</p>
 
 <div align="center">
