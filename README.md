@@ -5,7 +5,7 @@ I love to tell coding is beatiful to people. I work OSS projects in my freetime.
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Mehmetali345Dev&style=flat-square"
-<img src="https://lanyard-profile-readme.vercel.app/api/839462340121985035">
+<img src="https://lanyard-profile-readme.vercel.app/api/404360912460578816">
 </div>
 
 <div>
