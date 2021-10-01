@@ -5,8 +5,7 @@ I love to tell coding is beatiful to people. I work OSS projects in my freetime.
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Mehmetali345Dev&style=flat-square"
-<img src="https://lanyard-profile-readme.vercel.app/api/404360912460578816">
-</div>
+![Discord Profile](https://lanyard-profile-readme.vercel.app/api/404360912460578816)</div>
 
 <div>
 <h1>
@@ -37,6 +36,5 @@ I love to tell coding is beatiful to people. I work OSS projects in my freetime.
 
 <div align="center">
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Mehmetali345Dev&theme=dark&hide_border=true">
-<img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehmetali345Dev&theme=dark&hide_border=true&layout=compact">
 
 </div>
