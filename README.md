@@ -3,6 +3,8 @@
 I am Mehmet Ali (aka Mehmetali_345) I am a young developer(I'm 14 years old) from Turkey. I write desktop programs and web applications using javascript and C#. 
 I love to tell coding is beatiful to people. I work OSS projects in my freetime.</p>
 
+NOTE: Thanks to CS101 Program of Koc University!
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Mehmetali345Dev&style=flat-square"
 ![Discord Profile](https://lanyard-profile-readme.vercel.app/api/404360912460578816)</div>
